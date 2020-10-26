@@ -22,4 +22,8 @@
 # Semestre sep - ene 2020
 
 -----
-📝 <img src="images/19tema1.jpg" width="400" height="400"/>
+<img src="images/19tema1.jpg" width="800" height="400"/>
+<img src="images/2tema2.jpg" width="800" height="400"/>
+<img src="images/3tema2.jpg" width="800" height="400"/>
+<img src="images/4tema2.jpg" width="800" height="400"/>
+<img src="images/5tema2.jpg" width="800" height="400"/>
